@@ -1,1 +1,3 @@
-See other README.md# 437-todo
+next . supabase . shadcnui
+
+placement test for cse437
